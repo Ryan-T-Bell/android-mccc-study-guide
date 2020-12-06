@@ -1,0 +1,2 @@
+rootProject.name='MCCC Study Guide'
+include ':app'

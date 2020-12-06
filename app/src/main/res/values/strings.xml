@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MCCC Study Guide</string>
+    <string name="nav_header_title">MCCC Study Guide</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="study">Study</string>
+    <string name="message_developer">Message Developer</string>
+
+    <string name="dashboard_new_exam">New Exam</string>
+    <string name="dashboard_current_exam">Continue \nCurrent Exam</string>
+</resources>
